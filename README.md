@@ -5,4 +5,6 @@
 2.CSS
 Javascript
 
-![Screenshot (298)](https://github.com/RajkumarGajbhiye/airline-app/assets/109793318/82508aab-c838-469e-9d6c-56bafe339869)
+![Screenshot (298)](https://github.com/RajkumarGajbhiye/airline-app/assets/109793318/88f620b7-fd73-45a0-8b79-fbbf2f58b3e8)
+
+
